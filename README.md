@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1cf2b37a-f0f9-4643-8b31-3d6fcb5cd0b1)<div align="center">
+<div align="center">
 
 ## 👋 Hello There, I'm Omar
 
