@@ -3,7 +3,7 @@
 ## 👋 Hello There, I'm Omar
 
 ### 🚀 MERN Stack Developer  
-Specialized in full-stack web development using **MongoDB, Express.js, React.js, and Node.js**
+Specialized in full-stack web development using **React.js , Node.js , Express.js and MongoDB**
 
 
 ---
