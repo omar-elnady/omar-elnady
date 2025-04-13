@@ -5,7 +5,6 @@
 ### 🚀 MERN Stack Developer  
 Specialized in full-stack web development using **MongoDB, Express.js, React.js, and Node.js**
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&color=04d9ff&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Full+Stack+Web+Development;ReactJs+|+NodeJs+)
 
 ---
 
@@ -35,3 +34,6 @@ Specialized in full-stack web development using **MongoDB, Express.js, React.js,
 [![](https://visitcount.itsvg.in/api?id=Omar-elnady&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
+<p align="center">
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=30:7812f8,100:00D8FF&height=80&section=footer"/>
+</p>
